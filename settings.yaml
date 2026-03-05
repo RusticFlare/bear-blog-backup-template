@@ -1,0 +1,19 @@
+subdomain:
+language:
+custom-domain:
+  domain:
+directives:
+  head-directive: |
+    
+  footer-directive: |
+    
+advanced-settings:
+  collect-analytics: true
+  date-format: d M, Y
+  fathom-site-id:
+  blog-path: blog
+  rss-alias:
+  custom-meta-tag:
+  robots-txt-content: |
+    User-agent: *
+    Allow: /
